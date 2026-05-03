@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 44e68598502d14f4ba551c42c7f94719
+labels:
+- Elf
+- Infinity
+- Male
+- Wardrobe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141802
+  packageName: Elf Character (Male & Female) - Fantasy RPG
+  packageVersion: 4.3.4
+  assetPath: Assets/Magic Pig Games (Infinity PBR)/Characters/Human - Elves/_Prefabs/Male
+    Human Armor/Elf_M_Loincloth.prefab
+  uploadId: 885618

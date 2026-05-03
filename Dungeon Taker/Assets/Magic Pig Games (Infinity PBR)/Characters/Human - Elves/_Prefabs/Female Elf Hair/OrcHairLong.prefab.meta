@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a896956c3fcd1468cb9a5a3f2fc6e8ef
+labels:
+- Elf
+- Female
+- Hair
+- Infinity
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141802
+  packageName: Elf Character (Male & Female) - Fantasy RPG
+  packageVersion: 4.3.4
+  assetPath: Assets/Magic Pig Games (Infinity PBR)/Characters/Human - Elves/_Prefabs/Female
+    Elf Hair/OrcHairLong.prefab
+  uploadId: 885618

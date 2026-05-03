@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a462d59a7fff148658d518491e941f01
+labels:
+- Elf
+- Infinity
+- Male
+- Wardrobe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141802
+  packageName: Elf Character (Male & Female) - Fantasy RPG
+  packageVersion: 4.3.4
+  assetPath: Assets/Magic Pig Games (Infinity PBR)/Characters/Human - Elves/_Prefabs/Male
+    Human Armor/Elf_M_Pteruges.prefab
+  uploadId: 885618

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cb4daa54c18db4b9e8ff615839a60000
+labels:
+- Elf
+- Infinity
+- Male
+- Wardrobe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141802
+  packageName: Elf Character (Male & Female) - Fantasy RPG
+  packageVersion: 4.3.4
+  assetPath: Assets/Magic Pig Games (Infinity PBR)/Characters/Human - Elves/_Prefabs/Male
+    Half Orc Armor/Poleyn_Spikes_R.prefab
+  uploadId: 885618

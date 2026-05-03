@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 640166ae030a0429c878f16ae5a0d68e
+labels:
+- Elf
+- Infinity
+- Male
+- Wardrobe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141802
+  packageName: Elf Character (Male & Female) - Fantasy RPG
+  packageVersion: 4.3.4
+  assetPath: Assets/Magic Pig Games (Infinity PBR)/Characters/Human - Elves/_Prefabs/Male
+    Half Orc Armor/Jewelry_Ear_L.prefab
+  uploadId: 885618

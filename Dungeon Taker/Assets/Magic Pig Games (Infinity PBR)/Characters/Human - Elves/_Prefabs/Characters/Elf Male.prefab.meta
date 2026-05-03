@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 77a9793664b024e39a74255e8e137926
+labels:
+- Elf
+- Infinity
+- Male
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141802
+  packageName: Elf Character (Male & Female) - Fantasy RPG
+  packageVersion: 4.3.4
+  assetPath: Assets/Magic Pig Games (Infinity PBR)/Characters/Human - Elves/_Prefabs/Characters/Elf
+    Male.prefab
+  uploadId: 885618
